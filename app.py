@@ -205,4 +205,4 @@ with col2:
 
 # ------------------ FOOTER ------------------
 st.markdown("---")
-st.caption("🛠️ Built with ❤️ by Stennas | © 2025")
+st.caption("🛠️ by Stennas | © 2025")
